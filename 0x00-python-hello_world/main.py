@@ -1,1 +1,2 @@
-print("Hello ALX!")
+#!/usr/bin/python3
+print("Best School")
